@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BludnyHolandan/PREMIUM/refs/heads/main/ps99/lua"))()
+--{By Vofflann}--
